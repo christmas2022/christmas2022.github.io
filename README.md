@@ -1,1 +1,3 @@
-# christmas2022.github.io
+```javascript
+location.href = 'index.html';
+```
